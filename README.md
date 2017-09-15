@@ -13,7 +13,7 @@ Basic demostrcuture(one of many) to create a Plugin with DB installation in Word
 
 ## Installation
 
-1. Download `my-custom-taxonomies-master.zip` from GitHub
+1. Download `Plugin-Structure-for-Wordpress-master.zip` from GitHub
 2. Install the plugin through the 'Add New Plugin' menu in WordPress
 3. Activate the plugin through the 'Plugins' menu in WordPress
 
