@@ -1,0 +1,1 @@
+# Plugin Structure for Wordpress
